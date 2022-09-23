@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ejercicios_Recursividad_U2",
+            "request": "launch",
+            "mainClass": "ejercicios_recursividad_u2.Ejercicios_Recursividad_U2",
+            "projectName": "Ejercicios_Recursividad_U2_e39a8b9e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
